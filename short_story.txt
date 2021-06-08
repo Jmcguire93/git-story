@@ -1,3 +1,4 @@
 This is the start of my short story. 
 We are learning how to use git commands. 
 Do not init the Actualize folder.
+Adding another sentence.
