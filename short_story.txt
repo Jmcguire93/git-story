@@ -1,1 +1,3 @@
-This is the start of my short story. We are learning how to use git commands. Do not init the Actualize folder.
+This is the start of my short story. 
+We are learning how to use git commands. 
+Do not init the Actualize folder.
